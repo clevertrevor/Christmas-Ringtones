@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Christmas Ringtones</string>
+    <string name="play_pause">Play_Pause</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="christmas_songs">Christmas Songs</string>
+    <string name="ringtone_manager">Ringtone Manager</string>
+    
+    <string-array 
+        name="song_options">
+        <item>Set As Ringtone</item>
+        <item>Set As Notification</item>
+        <item>Save to SD</item>
+    </string-array>
+
+</resources>
